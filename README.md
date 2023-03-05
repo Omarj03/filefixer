@@ -2,8 +2,7 @@
 
 
 ## Outline
-This program will organise a directory into folders assigned for each file type.
-*Note:* The default directory is the current user's download folder, this may be changed from the menu.
+This program will organise a directory into folders assigned for each file type. 
 
 ## Options
 ### 1. Sort one filetype
@@ -16,7 +15,7 @@ Asks user to input a threshold and will search through for all instances of each
 This will simply sort all files in the directory into appropriate folders
 
 ### 4. Change directory
-Allows user to input an alternative folder to use.
+Allows user to change directory to downloads, documents, desktop, or alternatively input a custom directory.
 
 ### 5. Exit
 Closes program.
